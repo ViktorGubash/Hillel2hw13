@@ -1,0 +1,12 @@
+.box{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+.box2{
+    background-color: darkblue;
+    width: 100px;
+    height: 100px;
+    opacity: 0;
+}
